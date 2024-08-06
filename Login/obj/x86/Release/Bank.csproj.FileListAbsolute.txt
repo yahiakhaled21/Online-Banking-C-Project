@@ -1,0 +1,16 @@
+C:\Users\saife\Desktop\ProjectNEW (1)\Login\bin\x86\Release\Login.exe.config
+C:\Users\saife\Desktop\ProjectNEW (1)\Login\bin\x86\Release\Login.exe
+C:\Users\saife\Desktop\ProjectNEW (1)\Login\bin\x86\Release\Login.pdb
+C:\Users\saife\Desktop\ProjectNEW (1)\Login\obj\x86\Release\Bank.csproj.AssemblyReference.cache
+C:\Users\saife\Desktop\ProjectNEW (1)\Login\obj\x86\Release\Bank.csproj.SuggestedBindingRedirects.cache
+C:\Users\saife\Desktop\ProjectNEW (1)\Login\obj\x86\Release\Login.Database.resources
+C:\Users\saife\Desktop\ProjectNEW (1)\Login\obj\x86\Release\Login.Deposit.resources
+C:\Users\saife\Desktop\ProjectNEW (1)\Login\obj\x86\Release\Bank.LoginForm.resources
+C:\Users\saife\Desktop\ProjectNEW (1)\Login\obj\x86\Release\Bank.MyAccount.resources
+C:\Users\saife\Desktop\ProjectNEW (1)\Login\obj\x86\Release\Login.Properties.Resources.resources
+C:\Users\saife\Desktop\ProjectNEW (1)\Login\obj\x86\Release\Login.Register.resources
+C:\Users\saife\Desktop\ProjectNEW (1)\Login\obj\x86\Release\Login.Withdraw.resources
+C:\Users\saife\Desktop\ProjectNEW (1)\Login\obj\x86\Release\Bank.csproj.GenerateResource.cache
+C:\Users\saife\Desktop\ProjectNEW (1)\Login\obj\x86\Release\Bank.csproj.CoreCompileInputs.cache
+C:\Users\saife\Desktop\ProjectNEW (1)\Login\obj\x86\Release\Login.exe
+C:\Users\saife\Desktop\ProjectNEW (1)\Login\obj\x86\Release\Login.pdb
